@@ -1,0 +1,17 @@
+.counter {
+    display: flex;
+    align-items: center;
+    width: 1440px;
+    margin: 20px auto;
+}
+button {
+    padding: 8px;
+    margin: 8px;
+    width: 50px;
+    background-color: rgb(93, 91, 252);
+    color: white;
+    font-size: 25px;
+}
+span {
+    font-size: 26px;
+}
